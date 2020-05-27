@@ -12,9 +12,9 @@ According to Jamie Ballard, a contributor to [YouGov](https://today.yougov.com/t
 
 ![1987 rates](https://whyserabbit.github.io/assets/img/rates1987.jpg)
 
-- They say the 80s was a weird time, but it seems a majority of people couldn't complain. Except Bulgaria.
+- They say the 80's was a weird time, but it seems a majority of people couldn't complain. Except Bulgaria and Austria.
 
 ![1992 rates](https://whyserabbit.github.io/assets/img/rates92.jpg)
 
-- A glance five years later-- whoa! Where did Hungary come from. _resists making ovious pun between "Hungary" and "hungry"_
+- A glance five years later-- whoa! Where did Hungary come from. _resists making obvious pun between "Hungary" and "hungry"_
 
