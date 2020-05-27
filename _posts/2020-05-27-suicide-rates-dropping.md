@@ -12,3 +12,7 @@ comments: true
 
 - They say the 80s was a weird time, but it seems a majority of people couldn't complain. Except Bulgaria.
 
+![1992 rates](https://whyserabbit.github.io/assets/img/rates92.jpg)
+
+- A glance five years later-- whoa! Where did Hungary come from. _resists making ovious pun between "Hungary" and "hungry"_
+
