@@ -16,5 +16,5 @@ According to Jamie Ballard, a contributor to [YouGov](https://today.yougov.com/t
 
 ![1992 rates](https://whyserabbit.github.io/assets/img/rates92.jpg)
 
-- A glance five years later-- whoa! Where did Hungary come from. _resists making obvious pun between "Hungary" and "hungry"_
+- A glance five years later-- whoa! Where did Hungary come from? _resists making obvious pun between "Hungary" and "hungry"_
 
