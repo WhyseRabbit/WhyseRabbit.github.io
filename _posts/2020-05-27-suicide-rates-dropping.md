@@ -8,4 +8,4 @@ tags: [portfolio, lambda project]
 comments: true
 ---
 
-![1987 rates](
+![1987 rates](rates1987.jpg)
