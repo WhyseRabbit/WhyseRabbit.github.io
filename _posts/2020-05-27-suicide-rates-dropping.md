@@ -22,7 +22,7 @@ According to Jamie Ballard, a contributor to [YouGov](https://today.yougov.com/t
 
 - Here we can see that in many places, the numbers are higher than just the previous year. What had people so freaked out?
 
-#### Global Suicide Rates 1997
+#### Global Suicide Rates 1997{: .mx-auto.d-block :}
 ![1997 rates](https://whyserabbit.github.io/assets/img/rates97.jpg)
 
 - Hungary, Luxembourg, and Lithuania have the highest numbers in '97. (More research needed)
