@@ -8,7 +8,7 @@ tags: [portfolio, lambda project]
 comments: true
 ---
 
-According to Jamie Ballard, a contributor to [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2018/09/13/americans-depression-suicide-mental-health), one out of three people in America know someone who has died from suicide-- this is not even counting the people who have survived attempts. Are things better or worse than before? And are these changes happening on a global scale?
+According to Jamie Ballard, a contributor to [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2018/09/13/americans-depression-suicide-mental-health), one out of three Americans know someone who has died from suicide-- this is not even counting the people who have survived attempts. Are things better or worse than before? And are these changes happening on a global scale?
 
 ![1987 rates](https://whyserabbit.github.io/assets/img/rates1987.jpg)
 
