@@ -12,7 +12,7 @@ It took me until my 30s to realize, I could have a further reach. I could learn 
 
 - I have always dreamed of publishing a novel (or many novels).
 - My music taste is ecclectic. Here are some examples:
-   - [Glass Animals-- Crazy (cover of Gnarles Barkley](https://www.youtube.com/watch?v=GByM4P5IM2M)
+   - [Glass Animals-- Crazy (cover of Gnarles Barkley)](https://www.youtube.com/watch?v=GByM4P5IM2M)
    - [Violet Orlandi-- Nemo (cover of Nightwish)](https://www.youtube.com/watch?v=WLpV8sYZk8g)
    - [Glass Animals-- Gooey](https://www.youtube.com/watch?v=IIA1XQnAv5s)
    - [The Birthday Massacre-- The Sky Will Turn](https://www.youtube.com/watch?v=KLobWcKG8mo)
