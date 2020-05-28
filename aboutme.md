@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Combining the Best of Left and Right Brains
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My birth name is Alex Yeary; my writing pseudonym is Caldwell Whyse; programmers, gamers, and the Internet know me as WhyseRabbit. My life has been dedicated to making the world around me kinder, more receptive, and just _more_. I believe people underestimate their own worth and it takes the eyes of others to see what is truly wonderful.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+It took me until my 30s to realize, I could have a further reach. I could learn a skill that might allow me to touch the world, or at least a community. I went to Lambda School with very little to lose and a whole future to gain. It is my life's mission to make this world a better place for everyone with the sheer, irrefutable power of data.
 
-What else do you need?
+### My Interests
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- I have always dreamed of publishing a novel (or many novels).
+- My music taste is ecclectic. Here are some examples:
+   - [Glass Animals-- Crazy (cover of Gnarles Barkley](https://www.youtube.com/watch?v=GByM4P5IM2M)
+   - [Glass Animals-- Gooey](https://www.youtube.com/watch?v=IIA1XQnAv5s)
+   - [The Birthday Massacre-- The Sky Will Turn](https://www.youtube.com/watch?v=KLobWcKG8mo)
+   - [Katy Perry ft. Juicy J-- Dark Horse](https://www.youtube.com/watch?v=0KSOMA3QBU0)
+- [Dungeons & Dragons (as explained by Mark Sherlock Hulmes)](https://www.youtube.com/watch?v=wHBM9ARGdD8)
