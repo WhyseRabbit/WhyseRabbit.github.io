@@ -40,7 +40,7 @@ According to Jamie Ballard, a contributor to [YouGov](https://today.yougov.com/t
 
 ![2010 rates](https://whyserabbit.github.io/assets/img/rates10.jpg)
 
-- Overall, the suicide rates have fallen on a global scale, with the exception of a few outlyers. With awareness, vigilance, and the ability to communicate openly and honestly, I believe we can see these numbers might drop further.
+- Overall, the suicide rates have fallen on a global scale, with the exception of a few outlyers. With awareness, vigilance, and the ability to communicate openly and honestly, I believe we might see these numbers drop further.
 
 
 ## Project Documentation, Sources, and Colaboratory Notebook
