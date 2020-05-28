@@ -16,5 +16,14 @@ According to Jamie Ballard, a contributor to [YouGov](https://today.yougov.com/t
 
 ![1992 rates](https://whyserabbit.github.io/assets/img/rates92.jpg)
 
-- A glance five years later-- whoa! Where did Hungary come from? _resists making obvious pun between "Hungary" and "hungry"_
+- A glance five years later-- overall, the numbers look similar, other than the spike in Hungary.
+
+![1993 rates](https://whyserabbit.github.io/assets/img/rates93.jpg)
+
+- Here we can see that in many places, the numbers are higher than just the previous year. What had people so freaked out?
+
+#### Global Suicide Rates 1997
+![1997 rates](https://whyserabbit.github.io/assets/img/rates97.jpg)
+
+- Hungary, Luxembourg, and Lithuania have the highest numbers in '97. (More research needed)
 
