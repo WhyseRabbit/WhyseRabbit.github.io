@@ -28,7 +28,7 @@ According to Jamie Ballard, a contributor to [YouGov](https://today.yougov.com/t
 #### Global Suicide Rates 1997
 ![1997 rates](https://whyserabbit.github.io/assets/img/rates97.jpg)
 
-- Hungary, Luxembourg, and Lithuania have the highest numbers in '97. A cursory search for causes within this timeframe gave no definitive causes. This is not great for data, but sometimes life (or death) happens.
+- Hungary, Luxembourg, and Lithuania have the highest numbers in '97. A cursory search for causes within this timeframe gave no definitive results. This is not great for data, but sometimes life (or death) happens.
 
 #### Global Suicide Rates 2004
 
