@@ -37,3 +37,15 @@ According to Jamie Ballard, a contributor to [YouGov](https://today.yougov.com/t
 
 ![2010 rates](https://whyserabbit.github.io/assets/img/rates10.jpg)
 
+- Summary goes here.
+
+
+## Project Documentation, Sources, and Colaboratory Notebook
+
+- The first challenge of this project was how to clearly and effectively communicate my findings through visualizations with my limited knowledge. I had originally wanted to use a cloropleth, but the errors in my code took more time than anticipated to troubleshoot.
+- My next challenge was having to learn on the fly, with no prior practice or experience, how to build my blog site.
+- I acknowlege this project is not pretty-- uneven lines, titles with random sizes... I wanted to embed the charts, but was having a difficult time doing the coding within the time frame.
+_Links_
+[Working Colab](https://colab.research.google.com/drive/16sTmjFv0hDrc4tXfNy-6PgbNNu273toW?usp=sharing)
+[Kaggle Dataset](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
+Jamie Ballard's [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2018/09/13/americans-depression-suicide-mental-health) article.
