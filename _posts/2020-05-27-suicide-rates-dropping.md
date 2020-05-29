@@ -55,5 +55,5 @@ _Links_
 - [Kaggle Dataset](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016) I used
 - [Same Data On Github](https://github.com/WhyseRabbit/suicide_rates/blob/master/master.csv)
 - Jamie Ballard's [YouGov](https://today.yougov.com/topics/lifestyle/articles-reports/2018/09/13/americans-depression-suicide-mental-health) article.
-- [The Year of Bankruptcies](https://www.tandfonline.com/doi/abs/10.1080/13523279208415181?journalCode=fjcs19) by László Andor. Written in 1992.
-- [Victoria Mikow's](https://files.eric.ed.gov/fulltext/ED383986.pdf) research.
+- [The Year of Bankruptcies](https://www.tandfonline.com/doi/abs/10.1080/13523279208415181?journalCode=fjcs19) by László Andor. Published in 1992.
+- [Victoria Mikow's](https://files.eric.ed.gov/fulltext/ED383986.pdf) research. Published in 1995.
