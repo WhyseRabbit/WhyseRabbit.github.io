@@ -47,7 +47,7 @@ According to Jamie Ballard, a contributor to [YouGov](https://today.yougov.com/t
 
 - The first challenge of this project was how to clearly and effectively communicate my findings through visualizations with my limited knowledge. I had originally wanted to use a cloropleth, but the errors in my code took more time than anticipated to troubleshoot.
 - My next challenge was having to learn on the fly, with no prior practice or experience, how to build my blog site.
-- I acknowlege this project is not the prettiest-- I worked hard to achieve the results I got; I wanted to embed the charts, but was having a difficult time cofiguring the code within the time frame.
+- I acknowlege this project is not the prettiest-- I worked hard to achieve the results I got; I wanted to embed the charts, but was having a difficult time configuring the code within the time frame.
 
 _Links_
 
