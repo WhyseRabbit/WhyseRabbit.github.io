@@ -40,3 +40,7 @@ comments: true
 
 *You may also view the full notebook of my work on my [GitHub](https://github.com/WhyseRabbit/DS-Project-Template/blob/master/notebooks/Project%20Notebook.ipynb).*  
 
+### What does
+**it take to be a good, great, or even excellent student?**  
+*Time*  
+You can get the answers off your friends to pass that test, but just knowing the answer on a test doesn't give you *real-life, nitty-gritty, in-your-face **experience***. Struggling through new content and making mistakes is often the best way to learn. **Tim Chester**, a contributor to [*Mashable*](https://mashable.com/article/best-way-to-learn-language/), concurs with these observations; Chester appends that if you're going out of your way to learn something, you should make it fun.
