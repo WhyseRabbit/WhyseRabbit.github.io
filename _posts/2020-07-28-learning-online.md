@@ -34,3 +34,9 @@ comments: true
 
 - **`Why and how was the feature chosen?`**  
 *While finding out how many hints or the specific amount of time might guarantee success sound like interesting targets to evaluate, I felt it better to use these as metrics to measure success. I chose this target because it supports my hypothesis and it is extremely relevant to what I am doing currently-- learning.*  
+
+- **`When and why is this model useful?`**  
+*I believe, while this model is simple, it is a good starting point for anyone interested in learning and/or teaching. Learning takes time, patience, a nudge in the right direction... and, occasionally, a small dose of failure.*  
+
+*You may also view the full notebook of my work on my [GitHub](https://github.com/WhyseRabbit/DS-Project-Template/blob/master/notebooks/Project%20Notebook.ipynb).*  
+
