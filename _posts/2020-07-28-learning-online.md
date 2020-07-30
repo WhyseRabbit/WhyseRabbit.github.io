@@ -47,7 +47,11 @@ You can get the answers off your friends to pass that test, but just knowing the
 ##### The Good News And The Bad News
 As tradition dictates, I'll start with the bad news: Linear models do nothing at all to improve this model's performance. The validation data scores **68.60%** accuracy on a `LinearRegression` model, making it even worse than the baseline.  
 
-![LogisticRegression]((https://whyserabbit.github.io/assets/img/pickle-rick.png)
+![LogisticRegression](https://whyserabbit.github.io/assets/img/pickle-rick.png)
 
 The good news is: A very simple boosting model fits amazingly well, with a validation accuracy of **99.53%**. Below is the source code for the models I've trained:  
+
+![Bagging](https://whyserabbit.github.io/assets/img/rick.png)  
+**Winning Model:**  
+![XGBClassifier](https://whyserabbit.github.io/assets/img/best.png)  
 
