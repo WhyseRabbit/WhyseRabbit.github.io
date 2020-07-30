@@ -10,11 +10,11 @@ comments: true
 
 # Learning Takes Time
 
-## Note for readers: The DataFrame being used is far too large to be hosted on GitHub. You can find the pertinent information on [Kaggle](https://www.kaggle.com/junyiacademy/learning-activity-public-dataset-by-junyi-academy). To solve this problem, I read in a 5% sample of the largest data, which equates to 810,866 observations.
+**Note for readers: The DataFrame being used is far too large to be hosted on GitHub. You can find the pertinent information on [Kaggle](https://www.kaggle.com/junyiacademy/learning-activity-public-dataset-by-junyi-academy). To solve this problem, I read in a 5% sample of the largest data, which equates to 810,866 observations.**
 
-#### Working Hypothesis: The more time and effort a student puts into learning a subject matter (in this case, math) makes it more likely for a student to learn that subject.
+### Working Hypothesis: The more time and effort a student puts into learning a subject matter (in this case, math) makes it more likely for a student to learn that subject.
 
-### **Project Considerations With Answers:**
+##### **Project Considerations With Answers:**
 
 - **`Choose which observations you will use to train, validate, and test your model.`**  
 *The data was collected over the better part of two years; I split the data into sections using the time-date format. The training data is built from sample data in 2018; the validation data takes place between January and April, 2019, and the testing data resides in May until the end of the study.*  
@@ -71,9 +71,12 @@ Yes, that's right! This simple boosting model gave me my best results.
 
 
 ![ROC Curve](https://whyserabbit.github.io/assets/img/roc-curve.jpg)
+
 *Talk about steep learning curves...*  
 
 ![Confusion Matrix](https://whyserabbit.github.io/assets/img/con-mat.jpg)
 
 *The rates for False Positives and False Negatives are, relatively, extremely low.*  
 
+### Conclusion:  
+*Not every subject matter is as clear-cut as math. But, the longer a painter paints, the more detail and technique they learn in that time. The longer you practice a language, the easier it becomes. I believe, in general, learning makes us better, more insightful, and better able to think for ourselves. I encourage everyone to go out and learn a new skill that has nothing (or everything) to do with what we're learning here at **Lambda Schools**. I'm learning Morse Code, because why not?*
