@@ -23,7 +23,7 @@ comments: true
 *`is_correct` will be my target. This is a binary classification of either `True` or `False`.*  
 
 - **`How is your target distributed?`**  
-  *Below are my baseline metrics:*
+  *Below are my baseline metrics:*  
   *70% `True`*  
   *~30% `False`*  
 
