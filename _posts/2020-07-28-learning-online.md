@@ -17,11 +17,11 @@ comments: true
 ### **Project Considerations With Answers:**
 
 - `Choose which observations you will use to train, validate, and test your model.`
-*The data was collected over the better part of two years; I split the data into sections using the time-date format. The training data is built from sample data in 2018; the validation data takes place between January and April, 2019, and the testing data resides in May until the end of the study.*
+\n *The data was collected over the better part of two years; I split the data into sections using the time-date format. The training data is built from sample data in 2018; the validation data takes place between January and April, 2019, and the testing data resides in May until the end of the study.*
 - `Choose your target. Which column in your tabular dataset will you predict?`
-*`is_correct` will be my target. This is a binary classification of either `True` or `False`.*
+\n *`is_correct` will be my target. This is a binary classification of either `True` or `False`.*
 - `How is your target distributed?`
-  *70% `True`*
+\n  *70% `True`*
   *~30% `False`*
 - `Choose your evaluation metric(s).`
-*Because the model is fairly balanced and Classification is needed, `accuracy` will be the evaluation metric.*
+\n *Because the model is fairly balanced and Classification is needed, `accuracy` will be the evaluation metric.*
