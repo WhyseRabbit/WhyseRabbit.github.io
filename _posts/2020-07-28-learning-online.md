@@ -73,6 +73,6 @@ Yes, that's right! This simple boosting model gave me my best results.
 ![ROC Curve](https:/whyserabbit.github.io/assets/img/roc-curve.jpg)
 *Talk about steep learning curves...*  
 
-![Confusion Matrix](https://whyserabbit.github.io/assets/img/con-mt.jpg)
+![Confusion Matrix](https://whyserabbit.github.io/assets/img/con-mat.jpg)
 *The rates for False Positives and False Negatives are, relatively, extremely low.*  
 
