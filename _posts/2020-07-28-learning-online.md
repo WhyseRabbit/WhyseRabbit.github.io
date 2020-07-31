@@ -11,8 +11,8 @@ comments: true
 ### Working Hypothesis: The more time and effort a student puts into learning something (in this case, math) makes it more likely for a student to learn that subject.  
 
 ##### **Note for readers: The DataFrame being used is far too large to be hosted on GitHub. You can find the pertinent information on [Kaggle](https://www.kaggle.com/junyiacademy/learning-activity-public-dataset-by-junyi-academy). To solve this problem, I read in a 5% sample of the largest data, which equates to 810,866 observations.**  
-
-
+  
+  
 
 #### **Project Considerations With Answers:**  
 - **`Choose which observations you will use to train, validate, and test your model.`**  
