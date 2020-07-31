@@ -46,7 +46,7 @@ comments: true
 You can get the answers off your friends to pass that test, but just knowing the answer on a screen or sheet of paper doesn't give you *real-life, nitty-gritty, in-your-face **experience***. Struggling through new content and making mistakes is often the best way to learn. **Tim Chester**, a contributor to [*Mashable*](https://mashable.com/article/best-way-to-learn-language/), concurs with these observations; Chester appends that if you're going out of your way to learn something, you should make it fun. Don't get discouraged by your mistakes, laugh at them!  
 
 ##### The Good News And The Bad News
-As tradition dictates, I'll start with the bad news: Linear models do nothing at all to improve this model's performance. The validation data scores **68.60%** accuracy on a `LinearRegression` model, making it even worse than the baseline.  
+As tradition dictates, I'll start with the bad news: Linear models do nothing at all to improve this model's performance. The validation data scores **68.60%** accuracy on a `LogisticRegression` model, making it even worse than the baseline.  
 
 ![LogisticRegression](https://whyserabbit.github.io/assets/img/pickle-rick.png)  
 - **Training Accuracy: 72.00%**
