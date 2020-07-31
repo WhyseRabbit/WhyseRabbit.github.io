@@ -10,9 +10,9 @@ comments: true
 
 # Learning Takes Time
 
-##### **Note for readers: The DataFrame being used is far too large to be hosted on GitHub. You can find the pertinent information on [Kaggle](https://www.kaggle.com/junyiacademy/learning-activity-public-dataset-by-junyi-academy). To solve this problem, I read in a 5% sample of the largest data, which equates to 810,866 observations.**
+##### **Note for readers: The DataFrame being used is far too large to be hosted on GitHub. You can find the pertinent information on [Kaggle](https://www.kaggle.com/junyiacademy/learning-activity-public-dataset-by-junyi-academy). To solve this problem, I read in a 5% sample of the largest data, which equates to 810,866 observations.**  
 
-### Working Hypothesis: The more time and effort a student puts into learning a subject matter (in this case, math) makes it more likely for a student to learn that subject.
+### Working Hypothesis: The more time and effort a student puts into learning a subject matter (in this case, math) makes it more likely for a student to learn that subject.  
 
 #### **Project Considerations With Answers:**
 
@@ -43,7 +43,7 @@ comments: true
 *You may also view the full notebook of my work on my [GitHub](https://github.com/WhyseRabbit/DS-Project-Template/blob/master/notebooks/Project%20Notebook.ipynb).*  
 
 ##### What does it take to be a good, great, or even excellent student?  
-*Time*  
+*Time and Effort*  
 You can get the answers off your friends to pass that test, but just knowing the answer on a screen or sheet of paper doesn't give you *real-life, nitty-gritty, in-your-face **experience***. Struggling through new content and making mistakes is often the best way to learn. **Tim Chester**, a contributor to [*Mashable*](https://mashable.com/article/best-way-to-learn-language/), concurs with these observations; Chester appends that if you're going out of your way to learn something, you should make it fun. Don't get discouraged by your mistakes, laugh at them!  
 
 ##### The Good News And The Bad News
