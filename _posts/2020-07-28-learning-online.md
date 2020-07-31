@@ -13,8 +13,8 @@ comments: true
 ##### **Note for readers: The DataFrame being used is far too large to be hosted on GitHub. You can find the pertinent information on [Kaggle](https://www.kaggle.com/junyiacademy/learning-activity-public-dataset-by-junyi-academy). To solve this problem, I read in a 5% sample of the largest data, which equates to 810,866 observations.**  
   
   
-
-#### **Project Considerations With Answers:**  
+  
+#### **Project Considerations With Answers:**
 - **`Choose which observations you will use to train, validate, and test your model.`**  
 *The data was collected over the better part of two years; I split the data into sections using the time-date format. The training data is built from sample data in 2018; the validation data takes place between January and April, 2019, and the testing data resides in May until the end of the study.*  
 
